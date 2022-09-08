@@ -1,8 +1,4 @@
 
-/*
- * created by Devma at 21/10/2017
- *
-*/
 
  $(document).ready(function(){
   $(".work-item > img").mouseenter(
